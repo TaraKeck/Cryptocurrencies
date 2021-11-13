@@ -30,8 +30,17 @@ Data visualizations will also be used to share findings.
 
 ![image](https://user-images.githubusercontent.com/85530690/141604292-be7cec75-3468-4dd9-8a5d-a6b67ff8c75a.png)
 
-## Deliverable:
+## Deliverable 3:
 
 ![image](https://user-images.githubusercontent.com/85530690/141604313-fc26f262-da74-4a60-96d2-2f53651e19d1.png)
 
 ![image](https://user-images.githubusercontent.com/85530690/141604323-9d6c6461-2bc4-486d-b11d-c9dbf387e7f2.png)
+
+## Deliverable 4 - Visuals:
+
+![image](https://user-images.githubusercontent.com/85530690/141604365-d12f11b5-abfe-4a0f-a8f1-5674cec4716a.png)
+
+![image](https://user-images.githubusercontent.com/85530690/141604379-57dc45e9-2669-4d3f-9bdc-40af2a2f25af.png)
+
+![image](https://user-images.githubusercontent.com/85530690/141604400-949ca082-1f05-4614-a59b-e051be907293.png)
+
